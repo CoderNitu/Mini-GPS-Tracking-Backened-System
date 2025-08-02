@@ -145,4 +145,39 @@ Response:
   ...
 ]
 ```
+## 📬 Postman Collection
+A complete Postman collection is included to demonstrate the usage of all API endpoints.
 
+🔗 Download & Use
+You can import the collection into Postman using the following steps:
+
+Open Postman.
+
+Click on "Import" at the top left.
+
+Select the file:
+gps_api_collection.json (included in the project root).
+
+The collection will appear in your workspace.
+
+📁 Collection Includes:
+
+Register Device (POST /devices/register/)
+
+Submit Location (POST /locations/)
+
+Get Device List (GET /devices/)
+
+Get Location History (GET /locations/<device_id>/)
+
+Each request includes:
+
+Required headers (e.g., Authorization: Token ...)
+
+Sample request bodies (JSON)
+
+Sample responses
+
+## 🎥 Demo Video
+
+## ☁️ Deployment 
