@@ -1,0 +1,11 @@
+# Ignore SQLite DB
+db.sqlite3
+
+# Ignore environment file
+.env
+
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
