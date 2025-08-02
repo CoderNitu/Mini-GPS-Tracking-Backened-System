@@ -184,5 +184,4 @@ https://drive.google.com/file/d/1MDXjMFf3BIjlpRPcnQBCOPIh2NJ_9lQl/view?usp=shari
 
 ## 🚀 Deployment
 
-Base URL: 
-
+Base URL: https://mini-gps-tracking-backened-system.onrender.com
