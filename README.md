@@ -160,7 +160,7 @@ gps_api_collection.json (included in the project root).
 
 The collection will appear in your workspace.
 
-### 📁 Collection Includes:
+## 📁 Collection Includes:
 
 Register Device (POST /devices/register/)
 
@@ -181,3 +181,8 @@ Sample responses
 ## 🎥 Demo Video
 
 https://drive.google.com/file/d/1MDXjMFf3BIjlpRPcnQBCOPIh2NJ_9lQl/view?usp=sharing
+
+## 🚀 Deployment
+
+Base URL: 
+
