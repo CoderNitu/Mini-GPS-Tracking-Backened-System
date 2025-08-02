@@ -1,6 +1,6 @@
 # 🛰️ Mini GPS Tracking Backend System
 
-A Django REST Framework-based backend system that allows authenticated devices to register, send real-time location updates, and view historical location data.
+Build a Django REST Framework-based backend system that allows authenticated devices to register, send real-time location updates, and view historical location data.
 
 ---
 
@@ -160,7 +160,7 @@ gps_api_collection.json (included in the project root).
 
 The collection will appear in your workspace.
 
-📁 Collection Includes:
+### 📁 Collection Includes:
 
 Register Device (POST /devices/register/)
 
